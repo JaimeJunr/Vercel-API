@@ -1,18 +1,14 @@
 # Fastify + Vercel
 
-This example shows how to use Fastify with Vercel Functions.
+### Projeto feito por estudo.
+
+Uma API **NodeJS**, utilizando o framework **Fastify** e hospedada na Vercel, para lidar com um banco de dados MongoDB. Schema gerado com a tecnologia do **Prisma**, com todas as funcionalidades da API feitas com **TypeScript**.
 
 ## Demo
 
+Demo da Vercel, porém com alterações para lidar com o **TypeScript** em produção.
+
 https://fastify-example.vercel.app/
-
-## Running Locallly
-
-```bash
-npm i
-npm i -g vercel@latest
-vercel dev
-```
 
 ## One-Click Deploy
 
